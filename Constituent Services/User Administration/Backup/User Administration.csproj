@@ -1,0 +1,228 @@
+<VisualStudioProject>
+    <CSHARP
+        ProjectType = "Local"
+        ProductVersion = "7.10.3077"
+        SchemaVersion = "2.0"
+        ProjectGuid = "{B539242C-0F66-44F4-8C50-3ED64890D43C}"
+    >
+        <Build>
+            <Settings
+                ApplicationIcon = "App.ico"
+                AssemblyKeyContainerName = ""
+                AssemblyName = "User Administration"
+                AssemblyOriginatorKeyFile = ""
+                DefaultClientScript = "JScript"
+                DefaultHTMLPageLayout = "Grid"
+                DefaultTargetSchema = "IE50"
+                DelaySign = "false"
+                OutputType = "WinExe"
+                PreBuildEvent = ""
+                PostBuildEvent = ""
+                RootNamespace = "User_Administration"
+                RunPostBuildEvent = "OnBuildSuccess"
+                StartupObject = ""
+            >
+                <Config
+                    Name = "Debug"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "DEBUG;TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "true"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "false"
+                    OutputPath = "bin\Debug\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+                <Config
+                    Name = "Release"
+                    AllowUnsafeBlocks = "false"
+                    BaseAddress = "285212672"
+                    CheckForOverflowUnderflow = "false"
+                    ConfigurationOverrideFile = ""
+                    DefineConstants = "TRACE"
+                    DocumentationFile = ""
+                    DebugSymbols = "false"
+                    FileAlignment = "4096"
+                    IncrementalBuild = "false"
+                    NoStdLib = "false"
+                    NoWarn = ""
+                    Optimize = "true"
+                    OutputPath = "bin\Release\"
+                    RegisterForComInterop = "false"
+                    RemoveIntegerChecks = "false"
+                    TreatWarningsAsErrors = "false"
+                    WarningLevel = "4"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                    HintPath = "..\..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.dll"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                    HintPath = "..\..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Data.dll"
+                />
+                <Reference
+                    Name = "System.Drawing"
+                    AssemblyName = "System.Drawing"
+                    HintPath = "..\..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Drawing.dll"
+                />
+                <Reference
+                    Name = "System.Windows.Forms"
+                    AssemblyName = "System.Windows.Forms"
+                    HintPath = "..\..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.Windows.Forms.dll"
+                />
+                <Reference
+                    Name = "System.XML"
+                    AssemblyName = "System.Xml"
+                    HintPath = "..\..\..\..\..\WINDOWS\Microsoft.NET\Framework\v1.1.4322\System.XML.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Configuration"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Configuration"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Configuration.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Security.Cryptography"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Security.Cryptography"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Security.Database.Authentication"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Security.Database.Authentication"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Security.Database.Authentication.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Security.Database"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Security.Database"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Security.Database.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Security"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Security"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Security.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Common"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Common"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll"
+                />
+                <Reference
+                    Name = "Microsoft.Practices.EnterpriseLibrary.Data"
+                    AssemblyName = "Microsoft.Practices.EnterpriseLibrary.Data"
+                    HintPath = "..\..\..\..\..\Program Files\Microsoft Enterprise Library June 2005\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll"
+                />
+            </References>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "App.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "App.ico"
+                    BuildAction = "Content"
+                />
+                <File
+                    RelPath = "AssemblyInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CatagoryForm.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "CatagoryForm.resx"
+                    DependentUpon = "CatagoryForm.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ChangePassword.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "ChangePassword.resx"
+                    DependentUpon = "ChangePassword.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "dataConfiguration.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "loggingConfiguration.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "Main.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "Main.resx"
+                    DependentUpon = "Main.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "ProfileInfo.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "RoleForm.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "RoleForm.resx"
+                    DependentUpon = "RoleForm.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+                <File
+                    RelPath = "securityConfiguration.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "securityCryptographyConfiguration.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "SecurityDatabaseConsole.exe.config"
+                    BuildAction = "None"
+                />
+                <File
+                    RelPath = "SR.cs"
+                    SubType = "Code"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserForm.cs"
+                    SubType = "Form"
+                    BuildAction = "Compile"
+                />
+                <File
+                    RelPath = "UserForm.resx"
+                    DependentUpon = "UserForm.cs"
+                    BuildAction = "EmbeddedResource"
+                />
+            </Include>
+        </Files>
+    </CSHARP>
+</VisualStudioProject>
+

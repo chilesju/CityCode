@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="User Administration">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\User Administration.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\User Administration.suo">
+</Property><Property Name="Date" Value="Friday, May 01, 2009">
+</Property><Property Name="Time" Value="22:04 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="User Administration.sln" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\User Administration.sln">
+</Event><Event ErrorLevel="0" Project="" Source="User Administration.suo" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\User Administration.suo">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="User Administration.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\User Administration.csproj">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="User Administration.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\User Administration.csproj.user">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="CatagoryForm.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\CatagoryForm.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="ChangePassword.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\ChangePassword.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="Main.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\Main.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="ProfileInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\ProfileInfo.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="RoleForm.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\RoleForm.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="SR.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\SR.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="UserForm.cs" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\UserForm.cs">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="App.config" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="dataConfiguration.config" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\dataConfiguration.config">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="loggingConfiguration.config" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\loggingConfiguration.config">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="securityConfiguration.config" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\securityConfiguration.config">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="securityCryptographyConfiguration.config" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\securityCryptographyConfiguration.config">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="SecurityDatabaseConsole.exe.config" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\SecurityDatabaseConsole.exe.config">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="CatagoryForm.resx" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\CatagoryForm.resx">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="ChangePassword.resx" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\ChangePassword.resx">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="Main.resx" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\Main.resx">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="RoleForm.resx" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\RoleForm.resx">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="UserForm.resx" Description="File successfully backed up as C:\Documents and Settings\Justin\Desktop\Constituent Services\User Administration\Backup\UserForm.resx">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="User Administration.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="User Administration" Source="User Administration.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="User Administration.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="User Administration.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="User Administration" Source="User Administration.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

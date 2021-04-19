@@ -1,0 +1,40 @@
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.ActiveComplaints.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.AddNewCall.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Administration.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Modify.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.AdditionalUsers.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.header4.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.AdminTabsPlaceHolder.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.Assignment.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.CodeNuisanceCase.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.Email.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services._default.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.Closed.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.OpenIncidents.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.OverDue.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.Pending.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.RequestingClosure.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.ViewPlaceHolder.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.MainScreen.resources
+C:\Documents and Settings\JC2\My Documents\Visual Studio 2005\Projects\ConstituentServices\ConstituentServices\obj\Debug\ConstituentServices.csproj.GenerateResource.Cache
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.ActiveComplaints.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.AddNewCall.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Administration.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Modify.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.AdditionalUsers.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.header4.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.AdminTabsPlaceHolder.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.Assignment.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.CodeNuisanceCase.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.controls.Email.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services._default.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.Closed.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.OpenIncidents.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.OverDue.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.Pending.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.RequestingClosure.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.Incident_Views.ViewPlaceHolder.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\Constituent_Services.MainScreen.resources
+C:\Documents and Settings\Justin\Desktop\Constituent Services\ConstituentServices\ConstituentServices\obj\Debug\ConstituentServices.csproj.GenerateResource.Cache

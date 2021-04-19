@@ -1,0 +1,34 @@
+bin\Release\User Administration.exe.config
+obj\Release\User Administration.exe
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\User_Administration.CatagoryForm.resources
+obj\Release\User_Administration.MainScreen.resources
+obj\Release\User_Administration.RoleForm.resources
+obj\Release\User_Administration.UserForm.resources
+obj\Release\User Administration.csproj.GenerateResource.Cache
+bin\Release\User Administration.exe
+bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.dll
+bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+bin\Release\Microsoft.Practices.ObjectBuilder.dll
+bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.xml
+bin\Release\Microsoft.Practices.EnterpriseLibrary.Data.xml
+bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.xml
+bin\Debug\User Administration.exe.config
+obj\Debug\User Administration.exe
+obj\Debug\User Administration.pdb
+bin\Debug\User Administration.exe
+bin\Debug\User Administration.pdb
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.dll
+bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
+bin\Debug\Microsoft.Practices.EnterpriseLibrary.Security.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\User_Administration.CatagoryForm.resources
+obj\Debug\User_Administration.MainScreen.resources
+obj\Debug\User_Administration.RoleForm.resources
+obj\Debug\User_Administration.UserForm.resources
+obj\Debug\User Administration.csproj.GenerateResource.Cache
