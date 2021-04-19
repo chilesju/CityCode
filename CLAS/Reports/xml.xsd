@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes" ?>
+<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="NewDataSet" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Table">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="License_Type" type="xs:string" minOccurs="0" />
+							<xs:element name="Status" type="xs:string" minOccurs="0" />
+							<xs:element name="Status_Date" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="License_Number" type="xs:string" minOccurs="0" />
+							<xs:element name="Applicants_Name" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerMgr" type="xs:string" minOccurs="0" />
+							<xs:element name="DBA" type="xs:string" minOccurs="0" />
+							<xs:element name="Issue_Date" type="xs:string" minOccurs="0" />
+							<xs:element name="Experation_Date" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="Fee" type="xs:decimal" minOccurs="0" />
+							<xs:element name="CheckNo" type="xs:string" minOccurs="0" />
+							<xs:element name="AccountNum" type="xs:string" minOccurs="0" />
+							<xs:element name="Zoning" type="xs:string" minOccurs="0" />
+							<xs:element name="InsuanceDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="SSN" type="xs:string" minOccurs="0" />
+							<xs:element name="DriverLic" type="xs:string" minOccurs="0" />
+							<xs:element name="SalesTax" type="xs:string" minOccurs="0" />
+							<xs:element name="LegalId" type="xs:string" minOccurs="0" />
+							<xs:element name="Notes" type="xs:string" minOccurs="0" />
+							<xs:element name="EmailAddress" type="xs:string" minOccurs="0" />
+							<xs:element name="BondInfo" type="xs:decimal" minOccurs="0" />
+							<xs:element name="BondDate" type="xs:dateTime" minOccurs="0" />
+							<xs:element name="BusinessName" type="xs:string" minOccurs="0" />
+							<xs:element name="BusinessAddress" type="xs:string" minOccurs="0" />
+							<xs:element name="BusinessCity" type="xs:string" minOccurs="0" />
+							<xs:element name="BusinessState" type="xs:string" minOccurs="0" />
+							<xs:element name="BusinessZip" type="xs:string" minOccurs="0" />
+							<xs:element name="BusinessPhone" type="xs:string" minOccurs="0" />
+							<xs:element name="LiqLicNumber" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerName" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerAddress" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerCity" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerState" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerZip" type="xs:string" minOccurs="0" />
+							<xs:element name="OwnerPhone" type="xs:string" minOccurs="0" />
+							<xs:element name="VinNumbrer" type="xs:string" minOccurs="0" />
+							<xs:element name="LicenseeName" type="xs:string" minOccurs="0" />
+							<xs:element name="MailAddress" type="xs:string" minOccurs="0" />
+							<xs:element name="MailCity" type="xs:string" minOccurs="0" />
+							<xs:element name="MailState" type="xs:string" minOccurs="0" />
+							<xs:element name="MailZip" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
